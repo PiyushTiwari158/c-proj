@@ -1,2 +1,2 @@
-# c-proj
+# c++proj
 student management system
